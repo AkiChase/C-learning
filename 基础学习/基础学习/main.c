@@ -1,5 +1,5 @@
 
-int main() {
-	func_01();
+int main(void) {
+	func_02();
 	return 0;
 }
