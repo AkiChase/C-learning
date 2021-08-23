@@ -2,5 +2,5 @@
 
 func_01()
 {
-	printf("第一段程序：Hello world\n");
+	printf("绗竴娈电▼搴忥細Hello world\n");
 }
