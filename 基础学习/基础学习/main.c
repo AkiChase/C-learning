@@ -1,8 +1,7 @@
 
 int main(void) {
 
-
-	func_02();
+	func_04();
 
 	return 0;
 }
