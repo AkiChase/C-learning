@@ -21,7 +21,7 @@ void func_06()
 	printf("%c\n", 97);
 
 	//打印百分号% 用%%
-	printf("百分号：%%\n")
+	printf("百分号：%%\n");
 
 }	
 
