@@ -1,6 +1,6 @@
 
 int main(void) 
 {
-	func_07();
+	func_11();
 	return 0;
 }
