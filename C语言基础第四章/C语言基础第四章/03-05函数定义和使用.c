@@ -14,7 +14,7 @@ extern int add_01(int a, int b); //提前声明，可以多次声明
 
 //等到多文件编程时再学
 
-//extern func_02(void);
+extern func_02(void);
 
 
 void func_03(void) //void可写可不写
@@ -25,10 +25,10 @@ void func_03(void) //void可写可不写
 	//若是数组的话会传递地址（函数中改变，原数组也改变）
 }
 
-//int才会是最终的返回格式（float被转化为int）
+//int才会是最终的返回格式（转化为int）
 int add(int a, int b)
 {
-	return (float)a + b;
+	return a + b;
 }
 
 int add_01(int a, int b)
