@@ -11,5 +11,4 @@ void func_10() {
 	
 	printf("%d\n", a);
 
-
 }
